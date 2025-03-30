@@ -8,7 +8,7 @@
 
 <h2 align="">🙋‍♂️ About me</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohhan415&label=Profile%20views&color=0e75b6&style=flat" alt="rohhan415" /> </p>
-I'm from Poland 🇵🇱, passionate about web development, especially React and TypeScript 💻. I love crafting clean, efficient, and scalable code. When I'm not coding, I immerse myself in books 📚—mainly Brandon Sanderson's novels—play guitar 🎸, and explore new ideas to expand my knowledge. 🚀
+I'm from Poland 🇵🇱, passionate about web development, especially React and TypeScript 💻. I love crafting clean, efficient, and scalable code. When I'm not coding, I immerse myself in books 📚—mainly Brandon Sanderson's novels—play guitar 🎸, and explore new ideas to expand my knowledge.  🚀
 
 <h2 align="">🌱 I’m currently learning</h2>
 <p>
